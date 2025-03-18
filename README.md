@@ -2,8 +2,8 @@
 > The only official places to download Bloxstrap are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
-    <img src="https://github.com/Daylight173ch/seventeenstrap/raw/main/Images/seventeenstr-blackbg.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/Daylight173ch/seventeenstrap/raw/main/Images/seventeenstr-whitebg.png#gh-light-mode-only" width="420">
+    <img src="https://github.com/seventeenstrap-holdings/seventeenstrap/raw/main/Images/seventeenstr-blackbg.png#gh-dark-mode-only" width="420">
+    <img src="https://github.com/seventeenstrap-holdings/seventeenstrap/raw/main/Images/seventeenstr-whitebg.png#gh-light-mode-only" width="420">
 </p>
 
 <div align="center">
